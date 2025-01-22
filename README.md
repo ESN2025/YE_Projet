@@ -79,45 +79,40 @@ Dans cette démonstration, j'ai vérifié toutes les directions et constaté que
   <img src="test1.png" alt="test1" width="30%">
   <p><em><strong>Figure 1 : Test1</strong></em></p>
 </div>
-<video controls width="400" height="600">
-  <source src="test1.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/06e4fadf-635e-496a-8aa4-3ab4370b736a
 
 2. **Test2**  
 <div align="center">
   <img src="test2.png" alt="test2" width="50%">
   <p><em><strong>Figure 2 : Test2</strong></em></p>
 </div>
-<video controls width="400" height="600">
-  <source src="test2.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/bad673e0-7576-4e69-8a17-2c8402679e59
 
 3. **Test3**  
 <div align="center">
   <img src="test3.png" alt="test3" width="20%">
   <p><em><strong>Figure 3 : Test3</strong></em></p>
 </div>
-<video controls width="400" height="600">
-  <source src="test3.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/0c28a4d6-6ca6-4243-bf87-a99b36072bb9
 
 4. **Test4**  
 <div align="center">
   <img src="test4.png" alt="test4" width="50%">
   <p><em><strong>Figure 4 : Test4</strong></em></p>
 </div>
-<video controls width="400" height="600">
-  <source src="test4.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/85d1014f-1713-497e-9727-0bb6631dbbd4
 
 5. **Test5**  
 <div align="center">
   <img src="test5.png" alt="test5" width="20%">
   <p><em><strong>Figure 5 : Test5</strong></em></p>
 </div>
-<video controls width="400" height="600">
-  <source src="test5.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/a25cb5e4-a9df-416e-a9a9-c1fad2584d91
 
 ---
 
